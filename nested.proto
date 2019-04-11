@@ -1,0 +1,32 @@
+syntax = "proto3";
+package ipcbench;
+
+message Scalars {
+	double d = 1;
+	int64 i = 2;
+	bool b = 3;
+	string s = 4;
+}
+
+message Nested {
+	int32 id = 1;
+	string name = 2;
+
+	enum Type {
+		THIS_TYPE = 0;
+		THAT_TYPE = 1;
+		ONE_MORE_TYPE = 3;
+	}
+
+	message SubType {
+		string name = 1;
+		Type type = 2;
+	}
+
+	SubType subtype = 3;
+	repeated Scalars scalars = 4;
+}
+
+message Top {
+	repeated Nested nested = 1;
+}

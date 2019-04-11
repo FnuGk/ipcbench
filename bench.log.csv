@@ -1,0 +1,841 @@
+Test,Iterations,ns/op,B/op,allocs/op
+BenchmarkNestedProtoMarshal1-8         ,10000000,       784 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       782 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       778 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       780 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       780 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       776 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       776 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       775 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       777 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       777 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       773 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       781 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       779 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       778 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       781 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       778 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       778 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       777 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       777 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       779 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       777 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       779 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       776 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       784 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       781 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       778 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       777 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       777 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       773 ,     208 ,       1 
+BenchmarkNestedProtoMarshal1-8         ,10000000,       777 ,     208 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9189 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9226 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9178 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9304 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9104 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9193 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9175 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9178 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9201 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9251 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9220 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9173 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9213 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9155 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9222 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9171 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9197 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9335 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9180 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9198 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9172 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9281 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9246 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9154 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9165 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9258 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9220 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9181 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9237 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal10-8        , 1000000,      9180 ,    2688 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112142 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112269 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112166 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112457 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112072 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112482 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112348 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112312 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112405 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112197 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    111985 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112167 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112225 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112436 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112453 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112284 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112216 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112281 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112317 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    111950 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112409 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112238 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112549 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112481 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112450 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112229 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112181 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112066 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112101 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal100-8       ,  100000,    112073 ,   27264 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1170393 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1164318 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1167719 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1174472 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1168086 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1170576 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1166680 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1178734 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1178205 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1177146 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1169707 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1175497 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1162996 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1175286 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1183151 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1174434 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1176645 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1179215 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,    5000,   1193442 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1170411 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1186946 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1170383 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1183896 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,    5000,   1167327 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1175230 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,    5000,   1161188 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1180170 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1174531 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1173117 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal1000-8      ,   10000,   1178953 ,  270336 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6048431 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6024048 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6016318 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6036597 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6033981 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6018195 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    2000,   6027633 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6017775 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6015849 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6037189 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    2000,   6021514 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6017762 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6028866 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6003786 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6035887 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6034164 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6030881 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6016431 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    2000,   6022572 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6012301 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6016096 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6029170 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6045156 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6049829 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6025003 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6013458 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6021784 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6021555 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6031603 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal5000-8      ,    1000,   6032980 , 1343488 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12219338 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12236257 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12228916 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12256524 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12255449 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12285392 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12304570 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12187039 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12226353 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12276261 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12243040 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12292656 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12196981 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12209569 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12248572 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12243069 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12222376 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12230294 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12251666 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12264795 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12224675 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12185874 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12186549 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12259675 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12265433 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12205311 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12216551 , 2686977 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12253428 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12244970 , 2686976 ,       1 
+BenchmarkNestedProtoMarshal10000-8     ,     500,  12191664 , 2686976 ,       1 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4740 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4746 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4754 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4708 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4723 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4741 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4726 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4736 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4735 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4755 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4722 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4713 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4718 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4739 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4721 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4714 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4719 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4723 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4717 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4717 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4738 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4723 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4746 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4710 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4758 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4723 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4732 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4726 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4734 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal1-8          , 2000000,      4721 ,    1280 ,       4 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     44180 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     44252 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     43422 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     45389 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     44662 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     43630 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     44234 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     43912 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     43910 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     44957 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     44872 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     42187 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     43344 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     44967 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     43157 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     42137 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     43459 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     43953 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     43919 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     43725 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     42862 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     45040 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     44307 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     44895 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     43437 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     46096 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     44628 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     43300 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     44509 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal10-8         ,  200000,     43524 ,   20864 ,       8 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    458463 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    447058 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    467595 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    457027 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    462611 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    459389 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    464415 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    468430 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    464993 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    463981 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    464661 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    460492 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    464209 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    455334 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    461971 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    453421 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    462238 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    459340 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    465818 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    463406 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    462549 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    454246 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    444533 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    463727 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    468111 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    464624 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    460162 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    461777 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    464025 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal100-8        ,   20000,    459574 ,  164224 ,      11 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4429819 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4375925 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4467333 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4423416 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4477417 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4528015 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4454083 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4401470 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4415171 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4391863 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4437247 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4433788 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4336938 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4504707 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4373691 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4455712 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4435095 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4476618 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4420219 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4430853 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4477285 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4455193 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4518767 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4441955 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4438016 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4400876 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4513331 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4394490 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4430338 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal1000-8       ,    2000,   4409080 , 1278336 ,      14 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23374617 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23373793 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23379076 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     200,  41827557 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23294772 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23287371 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23266260 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23376819 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23357657 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23364863 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23300259 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23386530 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23347821 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23353069 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23406220 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23403512 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23354717 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23476479 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23382065 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23432615 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23407038 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23321655 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23318082 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23335982 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  43363006 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23352237 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23377209 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23370331 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23361988 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal5000-8       ,     300,  23386728 ,10051968 ,      17 
+BenchmarkNestedJSONMarshal10000-8      ,     200,  47282327 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     100,  60315304 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     100,  95773227 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     100,  76597650 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     200,  47440505 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     200,  47564633 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     100,  80588248 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     100,  59557315 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     200,  47188592 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     200,  47337295 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     200,  74745259 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     200,  51408929 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     200,  47357538 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     200,  47243960 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     200,  47307130 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     100,  73591234 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     100,  74563776 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     200,  47189477 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     200,  47545280 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     200,  47369830 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     100,  85918556 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     100,  69967054 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     200,  47427680 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     200,  47187465 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     200,  47520561 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     200,  47313091 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     200,  47484999 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     200,  67239586 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     100,  52746343 ,20078976 ,      18 
+BenchmarkNestedJSONMarshal10000-8      ,     200,  47508427 ,20078976 ,      18 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1397 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1399 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1397 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1399 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1401 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1396 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1400 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1397 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1398 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1402 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1397 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1398 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1397 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1398 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1397 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1398 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1398 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1399 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1399 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1395 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1397 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1397 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1398 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1396 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1401 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1397 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1397 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1397 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1399 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal1-8       , 5000000,      1398 ,     752 ,      19 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15755 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15766 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15730 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15740 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15782 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15743 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15741 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15731 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15743 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15741 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15761 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15745 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15731 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15727 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15719 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15737 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15706 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15709 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15697 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15728 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15740 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15711 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15736 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15752 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15740 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15741 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15722 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15741 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15727 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal10-8      ,  500000,     15749 ,    8824 ,     192 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188685 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188664 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188624 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188851 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188572 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188727 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188218 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188254 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188301 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    189087 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188691 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188581 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188628 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188733 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188798 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188740 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188674 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188658 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188775 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188738 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    189557 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188625 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188720 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188794 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188601 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188631 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188501 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188321 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188395 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal100-8     ,   50000,    188661 ,   98568 ,    2108 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1908152 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1910768 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1909907 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1910431 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1904952 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1909233 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1906730 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1911506 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1908423 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1910234 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1908054 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1913631 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1910772 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1910534 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1908619 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1911530 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1907473 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1910624 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1907439 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1912032 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1909931 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1909687 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1907964 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1910843 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1907663 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1914325 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1908913 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1909620 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1907843 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal1000-8    ,    5000,   1909703 ,  977208 ,   20901 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,  10004855 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,  10024148 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,  17180357 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,     300,  20504288 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,  10001670 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,  10030734 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,  10008775 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,   9991354 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,   9977031 , 5037731 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,  10030415 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,  10015452 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,  10006220 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,  10019616 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,   9998470 , 5037731 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,  16363393 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,     300,  19229803 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,   9999819 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,   9997363 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,  10034297 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,  10015578 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,  10017844 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,   9983951 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,   9988697 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,   9973962 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,  16162187 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,     300,  20450749 , 5037731 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,     300,  20419355 , 5037731 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,   9988164 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,  10012371 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal5000-8    ,    1000,  10008262 , 5037730 ,  106073 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20209624 ,10143844 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20192495 ,10143843 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20163876 ,10143843 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  35388908 ,10143843 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     200,  29168680 ,10143844 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20202737 ,10143843 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20259140 ,10143844 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20191074 ,10143843 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20132880 ,10143843 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20222708 ,10143843 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20284383 ,10143842 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20176088 ,10143844 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20108083 ,10143844 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  29676569 ,10143843 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     200,  41268366 ,10143844 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20173576 ,10143844 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20228279 ,10143843 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20174381 ,10143843 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20387595 ,10143842 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20233423 ,10143845 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20188333 ,10143844 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20203889 ,10143843 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20208039 ,10143844 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20350966 ,10143843 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     200,  41244055 ,10143843 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     200,  26769243 ,10143844 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20160033 ,10143844 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20243152 ,10143843 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20190187 ,10143844 ,  212007 
+BenchmarkNestedProtoUnMarshal10000-8   ,     300,  20285002 ,10143843 ,  212007 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     20794 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        ,  500000,     10346 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     13638 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     15261 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     13618 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     11999 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     14439 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     10352 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     14994 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        ,  500000,     10347 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     13630 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     11091 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        ,  300000,     18451 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     11994 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     13629 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     13650 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     12809 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     10361 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     13625 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     12797 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     10354 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     13623 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     13631 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     14447 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     10344 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     13628 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     13274 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        ,  500000,     10352 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     13631 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal1-8        , 1000000,     10353 ,     816 ,      23 
+BenchmarkNestedJSONUnMarshal10-8       ,  100000,    148392 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,   50000,    182694 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,  100000,    140080 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,  100000,    131890 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,  100000,    156586 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,  100000,    115523 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,  100000,    140075 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,  100000,    156520 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,   50000,    152930 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,  100000,    140157 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,   50000,    157391 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,  100000,    115501 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,   30000,    168891 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,  100000,    115485 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,   50000,    188231 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,  100000,    115457 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,  100000,    140155 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,   50000,    150798 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,   50000,    148430 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,  100000,    149970 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,   50000,    115536 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,  100000,    138292 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,   50000,    115367 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,  100000,    131780 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,  100000,    115421 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,  100000,    156424 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,  100000,    118979 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,   30000,    187659 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,   30000,    190260 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal10-8       ,  100000,    115500 ,    5344 ,     215 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1834713 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1535227 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    3000,   1768167 ,   57312 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1338953 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1334813 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1335962 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1336038 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1629889 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    3000,   2432488 ,   57312 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1365441 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1664074 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1334784 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1827423 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1334929 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1633458 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    3000,   2154775 ,   57312 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1335046 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1335116 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1990002 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1333566 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1784035 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1335735 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1427032 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    3000,   1952410 ,   57312 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1824496 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1993702 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1332987 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1338007 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1333525 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal100-8      ,    5000,   1990509 ,   57299 ,    2404 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  13307478 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  16589759 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  13296802 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  13322589 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     300,  21784301 ,  570015 ,   23918 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  16601628 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  16574871 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  13310201 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  16634978 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  13296207 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  13300722 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  13289308 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  18241956 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  13301403 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  13312545 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  18520121 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  16593904 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  13376259 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  13320399 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  13293197 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  18703348 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  13289667 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  18223878 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  16587943 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  13316213 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  18285443 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  15073840 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  13313299 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  18562908 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal1000-8     ,     500,  18232555 ,  568729 ,   23899 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  67944141 , 2936673 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  77731311 , 2936674 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,      50, 125980783 , 2985860 ,  122908 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  84198024 , 2936674 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  76170051 , 2936674 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  78717996 , 2936674 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  67810992 , 2936674 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  67733198 , 2936674 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  83963975 , 2936674 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  76041138 , 2936675 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  92228037 , 2936674 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  67649862 , 2936674 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  67606514 , 2936674 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  67779792 , 2936674 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  93539058 , 2936674 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,      50, 110123974 , 2985860 ,  122908 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  67665218 , 2936674 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  67763570 , 2936674 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  84213642 , 2936675 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  67669821 , 2936675 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  92441667 , 2936674 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  68718924 , 2936674 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  84835177 , 2936675 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  84270110 , 2936675 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  77772682 , 2936674 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  67789658 , 2936675 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  75929169 , 2936674 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  75939649 , 2936674 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  84077601 , 2936675 ,  122203 
+BenchmarkNestedJSONUnMarshal5000-8     ,     100,  67754903 , 2936675 ,  122203 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 168450455 , 5967014 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 135907949 , 5967015 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 135879061 , 5967015 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 152079366 , 5967015 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 168195697 , 5967015 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 150116530 , 5967015 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 168969488 , 5967016 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 135698204 , 5967016 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 168680048 , 5967016 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 137716731 , 5967015 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 136042149 , 5967015 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 201553475 , 5967018 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 152543881 , 5967016 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 152696318 , 5967015 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 136053725 , 5967015 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 168973428 , 5967014 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 152746782 , 5967015 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 136167606 , 5967015 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 139786238 , 5967015 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 136519700 , 5967014 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 199416314 , 5967014 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 140936668 , 5967015 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 136073831 , 5967019 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 168965455 , 5967015 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 168949699 , 5967015 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 201773163 , 5967017 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 152477999 , 5967015 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 135875724 , 5967014 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 135466278 , 5967016 ,  245661 
+BenchmarkNestedJSONUnMarshal10000-8    ,      50, 217469271 , 5967015 ,  245661 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        88.8 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        73.5 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        89.9 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        73.4 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        73.5 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,       114 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        73.6 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,       106 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        73.6 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        73.4 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        73.5 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        81.7 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        73.5 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        86.9 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        82.6 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        98.1 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        90.4 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        74.4 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,       109 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        73.6 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        98.1 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        73.5 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        89.8 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        90.4 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        90.0 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        77.1 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        79.7 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        73.5 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        98.0 ,       2 ,       1 
+BenchmarkSimpleProtoMarshal-8          ,100000000,        73.5 ,       2 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,30000000,       321 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       330 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       328 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       318 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       323 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       325 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       324 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       321 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       320 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       329 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       322 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       321 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       323 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       321 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,30000000,       324 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       324 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       320 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       320 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       326 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       324 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       326 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       326 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       319 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       324 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       329 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       329 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       328 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       327 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,20000000,       323 ,     176 ,       1 
+BenchmarkSimpleJSONMarshal-8           ,30000000,       329 ,     176 ,       1 
+BenchmarkSimpleProtoUnMarshal-8        ,100000000,        55.7 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,100000000,        71.0 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,100000000,        71.0 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,100000000,        70.9 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        33.4 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        62.8 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        33.4 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        34.1 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        33.4 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        33.4 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        33.4 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        33.4 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        33.4 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        33.4 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,100000000,        50.3 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        33.4 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        33.4 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        33.4 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        33.4 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        33.4 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        33.4 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        33.4 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        33.4 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        62.7 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        33.4 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        34.0 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        33.4 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        33.4 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        33.4 ,       0 ,       0 
+BenchmarkSimpleProtoUnMarshal-8        ,200000000,        33.4 ,       0 ,       0 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       699 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       712 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       714 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       707 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       711 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       715 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       710 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       705 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       707 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       718 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       716 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       712 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       706 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       709 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       706 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       699 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       709 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       707 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       703 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       705 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       703 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       714 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       709 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       714 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       700 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       714 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       706 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       713 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       712 ,     304 ,       3 
+BenchmarkSimpleJSONUnMarshal-8         ,10000000,       712 ,     304 ,       3 
